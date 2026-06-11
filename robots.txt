@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://emberamber.com/sitemap.xml
+
+# Disallow admin/private areas (if added later)
+Disallow: /admin/
+Disallow: /private/
